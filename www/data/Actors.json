@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"aris","characterIndex":0,"characterName":"aris","classId":1,"equips":[0,0,2,2,0],"faceIndex":0,"faceName":"aris","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aris","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"hypatia","characterIndex":0,"characterName":"hypatia","classId":2,"equips":[3,0,1,2,0],"faceIndex":0,"faceName":"hypatia","traits":[],"initialLevel":2,"maxLevel":99,"name":"Hypa","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"notalp","characterIndex":0,"characterName":"notalp","classId":3,"equips":[4,0,0,2,4],"faceIndex":0,"faceName":"notalp","traits":[],"initialLevel":2,"maxLevel":99,"name":"Notalp","nickname":"","note":"","profile":""}
+]
